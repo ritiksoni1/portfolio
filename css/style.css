@@ -1,0 +1,22 @@
+.navbar{
+
+}
+.navbar-item{
+  padding: 0 12px;
+}
+.navbar-brand{
+color: white;
+}
+#title{
+background-color:black;
+color: white;
+}
+.container-fluid{
+  padding: 1% 18% 7%;
+}
+.big-heading{
+color: white;
+}
+.nav-link{
+  color: white;
+}
